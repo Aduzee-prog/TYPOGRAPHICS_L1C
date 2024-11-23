@@ -1,0 +1,22 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    font-weight: lighter;
+    text-decoration: underline overline dotted red;
+    text-transform: uppercase;
+    text-overflow: clip;
+    text-shadow: 20px 20px 10px blue;
+
+
+}
+p{
+    font-size: 20px;
+    text-indent: 3cap;
+    line-height: 2;
+    line-break: auto;
+    font-family: "Cinzel", serif;
+    word-spacing: 3px;
+
+
+    
+}
